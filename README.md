@@ -1,4 +1,5 @@
 <h1 align="center">🐬 Интерактивная работа с MySQL в Docker</h1>
+<h1 align="center">[🐬 Интерактивная работа с MySQL в Docker 2](/README2.md)</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL 8.0">
